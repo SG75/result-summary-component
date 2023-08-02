@@ -40,7 +40,7 @@ Users should be able to:
 
 - Solution URL: [Solution](https://github.com/SG75/result-summary-component)
 
-- Live Site URL: [Live Site](https://your-live-site-url.com)
+- Live Site URL: [Live Site](https://result-summary-component-azure.vercel.app/)
 
 ## My process
 
